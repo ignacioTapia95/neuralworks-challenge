@@ -1,4 +1,2 @@
 venv/
-.ipynb/checkpoints/
-data/__MACOSX/
-data/.DS_Store
+.ipynb_checkpoints/
