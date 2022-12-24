@@ -1,2 +1,4 @@
 venv/
 .ipynb/checkpoints/
+data/__MACOSX/
+data/database.sql
