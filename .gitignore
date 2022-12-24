@@ -2,3 +2,4 @@ venv/
 .ipynb/checkpoints/
 data/__MACOSX/
 data/database.sqlite
+data/.DS_Store
