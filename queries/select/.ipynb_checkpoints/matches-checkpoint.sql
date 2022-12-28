@@ -11,4 +11,4 @@ FROM Match m
 LEFT JOIN League l    ON m.league_id = l.id
 LEFT JOIN Country c   ON m.country_id = c.id
 LEFT JOIN Team home_t ON m.home_team_api_id = home_t.team_api_id
-LEFT JOIN Team away_t ON m.home_team_api_id = away_t.team_api_id;
+LEFT JOIN Team away_t ON m.away_team_api_id = away_t.team_api_id

@@ -14,5 +14,3 @@ def read_from_sqlite(sql_file:str, path_db:str) -> pd.DataFrame():
 
     # Retornar pd.D
     return pd.read_sql_query(sqlFile, con)
-
-
