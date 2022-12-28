@@ -1,4 +1,4 @@
-# Challenge Data Analyst Neural Work
+# Challenge Data Analyst Neural Works
 Postulante: Ignacio Tapia  
 Diciembre 2022
 
