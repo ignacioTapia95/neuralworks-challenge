@@ -1,5 +1,5 @@
 # Challenge Data Analyst Neural Work
-Postulante: Ignacio Tapia
+Postulante: Ignacio Tapia  
 Diciembre 2022
 
 El repositorio se organiza de la siguiente forma:
@@ -38,3 +38,12 @@ challenge_neuralworks
 * ./queries : Para mantener sólo los aspectos analíticos dentro de los notebooks, se almacenan las queries para obtener los datos en un directorio aparte.
 * ./requirements.txt : librerías necesarias para la correcta ejecución de los notebooks.
 * ./utils : directorio para almacenar funciones personalizadas.
+
+
+## Estructura de Notebooks
+Se utilizaron dos notebooks con fines exclusivamente experimentales, esto son:
+* 01_SANDBOX_EDA.ipynb
+* 02_SISTEMAS_DE_JUEGO.ipynb
+
+La utilización de estos notebooks perimitió motivar la intución sobre la base de datos y sus características. Luego, se utilizó un notebook exclusivamente para redactar lo hallazgos hilados por un story telling. Este notebook es:
+* 03_CHALLENGE.ipynb
